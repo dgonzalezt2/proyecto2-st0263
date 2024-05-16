@@ -50,6 +50,7 @@ Arquitectura [Reto3-4](https://github.com/dgonzalezt2/reto3-st0263):
 
 Dominio Proyecto 2: https://proyecto2.reto3.me/
 
+![image](https://github.com/dgonzalezt2/proyecto2-st0263/assets/81880494/b55c1ccd-57a0-401b-bda9-21ae7d804500)
 
 ## 6. Referencias.
 
