@@ -27,7 +27,7 @@ Aspectos cumplidos de la actividad propuesta por el profesor:
 
 ## 2. Información general de diseño de alto nivel, arquitectura, patrones, mejores prácticas utilizadas.
 
-Se utilizó la arquitectura presentada a continuación:
+Se utilizó la misma arquitectura presentada en los retos:
 
 Arquitectura [Reto3-4](https://github.com/dgonzalezt2/reto3-st0263):
 
