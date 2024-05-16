@@ -363,10 +363,9 @@ spec:
 ```
 
 
-
-
-
 ## 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
+
+IP externa: 34.134.49.116
 
 ![image](https://github.com/dgonzalezt2/proyecto2-st0263/assets/81880494/1642214a-7592-4c2a-a490-543882c0ec85)
 
