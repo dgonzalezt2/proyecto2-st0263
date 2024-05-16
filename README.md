@@ -18,12 +18,23 @@ En este proyecto 2 basandonos de anteriores [RETO3](https://github.com/dgonzalez
 ### 1.1. Que aspectos cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
 
 Aspectos cumplidos de la actividad propuesta por el profesor:
+· Se realizará la implementación en GCP
 
+· Este proyecto 2, instalará un clúster Kubernetes con el software microk8s (https://microk8s.io/
 
+· El servicio debe implementar un balanceador de cargas, alta disponibilidad en la capa de aplicación, alta disponibilidad en la capa de base de datos y alta disponibilidad en la capa de almacenamiento.
+
+· Debe permitir el aumento dinámico de nodos en el clúster kubernetes, ideal de forma automática, sino manual.
+
+· Para el caso de la base de datos, debe desplegar en kubernetes una base de datos de alta disponibilidad.
+
+· Para el caso del sistema de archivos, desplegar el servidor NFS en el propio clúster para los servicios State full set.
+
+· Implementar un dominio para el servicio. https://proyecto2.dominio.tld
 
 ### 1.2. Que aspectos NO cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
 
-* N/A
+* Certificado muestra problemas de dualidad 
 
 ## 2. Información general de diseño de alto nivel, arquitectura, patrones, mejores prácticas utilizadas.
 
