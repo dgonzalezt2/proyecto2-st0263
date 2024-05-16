@@ -13,7 +13,7 @@
 
 ## 1. Breve descripción de la actividad
 
-
+En este proyecto 2 basandonos del anterior [RETO4](https://github.com/dgonzalezt2/reto4-st0263) implementaremos una aplicación de Wordpress utilizando MicroK8s en un entorno de Google Cloud Platform (GCP). Configuramos un clúster con un nodo maestro y nodos de trabajo en MicroK8s, permitiendo así la creación de un clúster de Kubernetes personalizado. Además, establecimos una máquina dedicada como servidor NFS para garantizar la persistencia de los datos de Wordpress y la base de datos en caso de fallos en los pods.
 
 ### 1.1. Que aspectos cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
 
