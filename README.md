@@ -45,6 +45,15 @@ Dominio Proyecto 2: https://proyecto2.reto3.me/
 
 ## 6. Referencias.
 
+* [Microk8s](https://microk8s.io)
+* [Usar certificados SSL administrados por Google](https://cloud.google.com/kubernetes-engine/docs/how-to/managed-certs#gcloud)
+* [KUBERNETES De NOVATO a PRO! (CURSO COMPLETO EN ESPAÑOL)](https://www.youtube.com/watch?v=DCoBcpOA7W4)
+* [Wordpress High Availability on Kubernetes](https://medium.com/@icheko/wordpress-high-availability-on-kubernetes-f6c0bcc2f28d)
+* [WordPress on Kubernetes Cluster — Step-by-Step Guide](https://engr-syedusmanahmad.medium.com/wordpress-on-kubernetes-cluster-step-by-step-guide-749cb53e27c7)
+* [HIGHLY AVAILABLE WORDPRESS ON KUBERNETES](https://matthewdavis.io/highly-available-wordpress-on-kubernetes/)
+* [How to deploy WordPress on Kubernetes — Part 1](https://medium.com/codex/how-to-deploy-wordpress-on-kubernetes-part-1-62cc5bd74410)
+* [How to deploy WordPress on Kubernetes — Part 2](https://medium.com/codex/how-to-deploy-wordpress-on-kubernetes-part-2-df1cc9cbaa2e)
+
 
 
 
