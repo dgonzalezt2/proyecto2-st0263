@@ -38,7 +38,11 @@ Arquitectura [Reto3-4](https://github.com/dgonzalezt2/reto3-st0263):
 
 ## 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
 
+![image](https://github.com/dgonzalezt2/proyecto2-st0263/assets/81880494/1642214a-7592-4c2a-a490-543882c0ec85)
 
+![image](https://github.com/dgonzalezt2/proyecto2-st0263/assets/81880494/cc05a203-5607-4251-85d9-01b5a1759d04)
+
+![image](https://github.com/dgonzalezt2/proyecto2-st0263/assets/81880494/9820e477-15ce-4f2d-8e39-bd8b395e0c4b)
 
 ## 5. Resultado final.
 
