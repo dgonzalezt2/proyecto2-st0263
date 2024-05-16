@@ -40,7 +40,7 @@ Aspectos cumplidos de la actividad propuesta por el profesor:
 
 [Video sustentacion]()
 
-Dominio Reto 4: https://reto4.reto3.me/
+Dominio Proyecto 2: https://proyecto2.reto3.me/
 
 
 ## 6. Referencias.
