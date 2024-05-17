@@ -391,6 +391,8 @@ IP externa: 34.134.49.116
 Dominio Proyecto 2: https://proyecto2.reto3.me/
 
 ![image](https://github.com/dgonzalezt2/proyecto2-st0263/assets/81880494/b55c1ccd-57a0-401b-bda9-21ae7d804500)
+![image](https://github.com/dgonzalezt2/proyecto2-st0263/assets/81880494/9908974a-95fa-4542-8655-7b73ff3c7f32)
+
 
 ## 6. Referencias.
 
