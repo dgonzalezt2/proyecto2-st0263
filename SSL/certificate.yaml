@@ -1,0 +1,13 @@
+apiVersion: cert-manager.io/v1
+kind: Certificate
+metadata:
+  name: certificate-proyecto2
+  namespace: default
+spec:
+  secretName: certificate-proyecto2-mb8l2
+  issuerRef:
+    name: letsencrypt-prod
+    kind: ClusterIssuer
+  commonName: proyecto2.reto3.me
+  dnsNames:
+  - proyecto2.reto3.me
